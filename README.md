@@ -29,3 +29,7 @@ statement.
 
 **4)** In order to monitor the process all the banned IPs are dumped out to "bannedips" file once the script is executed. This 
 step is optional and you can remove it if necessary.
+
+<br>
+Additionally, you can schedule a cron job to run the script automatically on your server (for that reason it would be 
+recommendable to add your IP address to avoid blocking access).
