@@ -1,6 +1,6 @@
 ###force-protect
 
-##IP addresses banning through Apache log analysis and IPTABLES usage
+##IP addresses banning via Apache log analysis and IPTABLES usage
 <br>
 
 This little script was born as a need to block flooding attacks to my server. Basically what it does is analyzing the Apache 
