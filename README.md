@@ -1,6 +1,7 @@
 ## force-protect
 
 ##IPs banning through Apache log analysis and IPTABLES usage
+<br>
 
 This little script was born as a need to block flooding attacks to my server. Basically what it does is analyzing the Apache 
 log file and searching for certain key words into a defined filter list and thus determine possible intrusions, script 
